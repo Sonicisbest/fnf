@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="CrowdRight.png">
+<TextureAtlas imagePath="bottomBop.png">
 	<!-- Created with Adobe Animate version 20.5.0.29329 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="CROWD RIGHT0000" x="0" y="0" width="1683" height="672" pivotX="810.35" pivotY="-7.95" frameX="-1" frameY="-9" frameWidth="1695" frameHeight="681"/>
