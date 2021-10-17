@@ -1,7 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="scared_neo_bf.png">
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfChristmas.png">
 	<!-- Created with Adobe Animate version 20.5.0.29329 -->
 	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF HEY!!0000" x="0" y="0" width="395" height="419" frameX="0" frameY="0" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0001" x="0" y="0" width="395" height="419" frameX="0" frameY="0" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0002" x="405" y="0" width="413" height="413" frameX="-1" frameY="-8" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0003" x="405" y="0" width="413" height="413" frameX="-1" frameY="-8" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0004" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0005" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0006" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0007" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0008" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0009" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0010" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0011" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0012" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0013" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0014" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0015" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0016" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0017" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0018" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0019" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0020" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0021" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0022" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0023" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0024" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
+	<SubTexture name="BF HEY!!0025" x="828" y="0" width="414" height="415" frameX="-1" frameY="-6" frameWidth="415" frameHeight="421"/>
 	<SubTexture name="BF NOTE DOWN0000" x="0" y="0" width="373" height="381" pivotX="-14.65" pivotY="32.2" frameX="0" frameY="-25" frameWidth="373" frameHeight="406"/>
 	<SubTexture name="BF NOTE DOWN0001" x="383" y="0" width="373" height="381" frameX="0" frameY="-25" frameWidth="373" frameHeight="406"/>
 	<SubTexture name="BF NOTE DOWN0002" x="766" y="0" width="359" height="398" frameX="-6" frameY="-8" frameWidth="373" frameHeight="406"/>
